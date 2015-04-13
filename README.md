@@ -14,7 +14,7 @@ Prep work
 Salt fun!  Edit your top.sls for your server if you want to do highstate (recommended)
 
 1. highstate
-2. salt <server> state.sls worlds.recreate pillar='{s: WORLD, p: PORT }'
+2. salt SERVER state.sls worlds.recreate pillar='{s: WORLD, p: PORT }'
 
 Repeat #2 until you get the world you want!  Then don't run again or it gets wiped...
 
