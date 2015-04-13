@@ -2,6 +2,7 @@
 salt setup for Overviewer/MSM etc
 
 Prep work
+
 1.  Install a Debian server
 2.  Install salt-minion
 3.  Install sudo (if not there already)
